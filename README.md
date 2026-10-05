@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Utkarshxbaghel/leethub/tree/master/0856-score-of-parentheses) |
 | [1927-sum-game](https://github.com/Utkarshxbaghel/leethub/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Utkarshxbaghel/leethub/tree/master/1927-sum-game) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Utkarshxbaghel/leethub/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Utkarshxbaghel/leethub/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
